@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+body{
+  @apply bg-[#c9d6ff] bg-gradient-to-r from-[#e2e2e2] to-[#c9d6ff] flex justify-center items-center h-screen flex-col font-montserrat
+}
+input{
+  @apply w-[150px] mb-3 p-5
+}
